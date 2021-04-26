@@ -1,0 +1,19 @@
+body {
+  padding: 30px;
+}
+
+input {
+  margin: 20px;
+  padding: 10px;
+  align-items: flex-start;
+}
+
+form {
+  padding: 10px;
+  display: center;
+}
+
+button {
+  display: flex-end;
+  margin: 10px;
+}
